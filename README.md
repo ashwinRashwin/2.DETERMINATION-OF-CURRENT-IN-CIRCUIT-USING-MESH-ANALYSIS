@@ -44,7 +44,8 @@
     **CALCULATION**
 	![WhatsApp Image 2026-03-12 at 11 41 02 AM](https://github.com/user-attachments/assets/686c1b23-3670-4475-986f-3f946b19e795)
     ![WhatsApp Image 2026-03-12 at 11 32 15 AM](https://github.com/user-attachments/assets/3bcea6a2-b7d1-452f-8bf3-97d8cc3a17ea)
-    **MARKS SPLIT UP:**
+   
+**MARKS SPLIT UP:**
 	![WhatsApp Image 2026-03-12 at 11 46 34 AM](https://github.com/user-attachments/assets/70a2a09f-92fa-404a-ba48-d30a5c3b9c06)
 
 	
