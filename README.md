@@ -40,8 +40,9 @@
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
    **TABULAR COLUMN:**
-   0![WhatsApp Image 2026-03-12 at 11 40 42 AM](https://github.com/user-attachments/assets/fcd9d78a-a8d6-4cda-89fe-1edd784c7ff6)
-    **CALCULATION**
+   ![WhatsApp Image 2026-03-12 at 11 40 42 AM](https://github.com/user-attachments/assets/fcd9d78a-a8d6-4cda-89fe-1edd784c7ff6)
+    
+**CALCULATION:**
 	![WhatsApp Image 2026-03-12 at 11 41 02 AM](https://github.com/user-attachments/assets/686c1b23-3670-4475-986f-3f946b19e795)
     ![WhatsApp Image 2026-03-12 at 11 32 15 AM](https://github.com/user-attachments/assets/3bcea6a2-b7d1-452f-8bf3-97d8cc3a17ea)
    
